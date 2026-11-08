@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💖 Support & Priority Requests
+    url: https://github.com
+    about: If you are a sponsor, please mention your tier for priority support on custom SQL optimization rules!
